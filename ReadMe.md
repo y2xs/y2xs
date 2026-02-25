@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on A LLM.<br>🤝 I’m looking for help with any of my Repo`s.<br>🌱 I’m currently learning C++.<br>⚡ Fun fact: I have 4 Years Experience.
+🔭 I’m currently working on A LLM.<br>🤝 I’m looking for help with any of my Repo`s.<br>🌱 I’m currently learning C++.<br>⚡ Experience: 4 Years.
 
 
 ## 🌐 Socials:
