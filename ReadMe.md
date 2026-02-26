@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on A LLM.<br>🤝 I’m looking for help with any of my Repo`s.<br>🌱 I’m currently learning C++.<br>🏢 Experience: 4 Years.<br> ⚡Fun fact: I have 400 hours on VScode
+🔭 I’m currently working on A LLM.<br>🤝 I’m looking for help with any of my Repo`s.<br>🌱 I’m currently learning C++.<br>🏢 Experience: 4 Years.<br> ⚡Fun fact: I have 400 hours on VScode.
 
 
 ## 🌐 Socials:
