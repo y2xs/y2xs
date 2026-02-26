@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on A LLM that guesses waht you draw.<br>🤝 I’m looking for help with polishing the face scanner speaker.<br>🌱 I’m currently Mastering C++.<br>🏢 Experience: 4 Years.<br> ⚡Fun fact: I've spent more time in VS Code than in sunlight.<br>🔗Main Language: Python<br>
+🔭 I’m currently working on A Digital Goods Storefront.<br>🤝 I’m looking for help with polishing the face scanner speaker.<br>🌱 I’m currently Mastering C++.<br>🏢 Experience: 4 Years.<br> ⚡Fun fact: I've spent more time in VS Code than in sunlight.<br>🔗Main Language: Python<br>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/1010933045693526086) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@meistuffboi) 
